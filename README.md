@@ -1,8 +1,9 @@
 # quiz_flutter
 
 do you watch anime??
--are you a pro or noob
--take this quick test to decide!!
+
+- are you a pro or noob??
+- take this quick test to decide!!
 
 ## ScreenShots
 ![image](https://github.com/rohit-sama/sawal-jwab_flutter/assets/112627630/93da5916-9eb2-406e-a67e-65a34e0b9036)
